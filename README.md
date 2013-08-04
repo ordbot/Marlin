@@ -1,9 +1,9 @@
 ORD Bot Configuration.h
 
-Motherboard 33 RAMPS 1.4
-Extruder MakerGear Plastruder
-3 MIN endstops (Convention:http://www.buildlog.net/wiki/lib/exe/detail.php?id=ord%3Asoftware&media=ord:xyz3.png)
-Heated Bed: Hadron LAVA, 10k thermistor
+* Motherboard 33 RAMPS 1.4
+* Extruder MakerGear Plastruder
+* 3 MIN endstops (Convention:http://www.buildlog.net/wiki/lib/exe/detail.php?id=ord%3Asoftware&media=ord:xyz3.png)
+* Heated Bed: Hadron LAVA, 10k thermistor
 
 
 ==========================
